@@ -1,0 +1,1 @@
+Репозиторий для задач из курса ["Selenium Python"](https://stepik.org/course/119495) на stepik.
